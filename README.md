@@ -1,0 +1,1 @@
+# kinimovil-odoo.sh
